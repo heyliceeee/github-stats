@@ -238,7 +238,7 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">arvoreGenealogica</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">arvoreGenealogicaGameOfThronesRecursivo</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">1</td>
@@ -247,7 +247,7 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">arvoreGenealogicaGameOfThronesRecursivo</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">candy-crush-yolo</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">1</td>
