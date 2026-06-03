@@ -214,8 +214,8 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">TurtleCrossing</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">19.05 - 01.06</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">5</td>
+          <td class="date-range" style="width: 120px; text-align: center;">20.05 - 02.06</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -224,7 +224,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">19.05 - 01.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">20.05 - 02.06</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -233,7 +233,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">19.05 - 01.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">20.05 - 02.06</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -242,16 +242,16 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">19.05 - 01.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">20.05 - 02.06</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">EtchASketch</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">FlashCardApp</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">19.05 - 01.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">20.05 - 02.06</td>
         </tr>
         </tbody>
       </table>
