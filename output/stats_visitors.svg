@@ -229,7 +229,7 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">AutomatedBirthdayWisher</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">AutomatedAmazonPriceTracker</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
@@ -238,7 +238,7 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">FlashCardApp</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">AutomatedBirthdayWisher</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
@@ -247,7 +247,7 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">FlightDealFinder</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">FlashCardApp</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
