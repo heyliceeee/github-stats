@@ -220,38 +220,38 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">blog</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">17.06 - 30.06</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">RentingResearch</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">16.06 - 29.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">17.06 - 30.06</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">SD-trabalhoPratico</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">16.06 - 29.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">17.06 - 30.06</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">100MoviesToWatch</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">16.06 - 29.06</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">blog</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">16.06 - 29.06</td>
+          <td class="date-range" style="width: 120px; text-align: center;">17.06 - 30.06</td>
         </tr>
         </tbody>
       </table>
