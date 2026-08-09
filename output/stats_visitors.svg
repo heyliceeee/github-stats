@@ -211,47 +211,47 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 1.4s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Analyse-Nobel-Prize</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">flask-portfolio-website</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">25.07 - 07.08</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
+          <td class="date-range" style="width: 120px; text-align: center;">26.07 - 08.08</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">flask-portfolio-website</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Analyse-Nobel-Prize</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">25.07 - 07.08</td>
+          <td class="date-range" style="width: 120px; text-align: center;">26.07 - 08.08</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">morse-code-converter</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
+          <td class="date-range" style="width: 120px; text-align: center;">26.07 - 08.08</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Movie-Budget-Revenue-Analysis</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">25.07 - 07.08</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">SD-trabalhoPratico</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">25.07 - 07.08</td>
+          <td class="date-range" style="width: 120px; text-align: center;">26.07 - 08.08</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">blog</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">PortugalGame</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">1</td>
-          <td class="date-range" style="width: 120px; text-align: center;">25.07 - 07.08</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
+          <td class="date-range" style="width: 120px; text-align: center;">26.07 - 08.08</td>
         </tr>
         </tbody>
       </table>
