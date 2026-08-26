@@ -185,7 +185,7 @@ div.ellipsis {
           <span class="progress-item" style="--final-width: 12.231947555645565%; --color: #dbb284; --delay: 1.88s;"></span>
           <span class="progress-item" style="--final-width: 3.3035508718086346%; --color: #f1e05a; --delay: 2.08s;"></span>
           <span class="progress-item" style="--final-width: 1.7931028615915463%; --color: #00B4AB; --delay: 2.28s;"></span>
-          <span class="progress-item" style="--final-width: 1.712679513217425%; --color: #178600; --delay: 2.49s;"></span>
+          <span class="progress-item" style="--final-width: 1.712679513217425%; --color: #7355dd; --delay: 2.49s;"></span>
           <span class="progress-item" style="--final-width: 1.302138173827163%; --color: #4F5D95; --delay: 2.69s;"></span>
           <span class="progress-item" style="--final-width: 1.0870831710843665%; --color: #663399; --delay: 2.90s;"></span>
           </span>
@@ -256,7 +256,7 @@ div.ellipsis {
                 <span class="percent">1.79%</span>
               </li>
               <li style="--li-delay: 2.49s;">
-                <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#178600;"
+                <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7355dd;"
                   viewBox="0 0 16 16" version="1.1" width="16" height="16">
                   <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                 </svg>
