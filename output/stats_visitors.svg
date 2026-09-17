@@ -215,9 +215,18 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">02.09 - 15.09</td>
+          <td class="date-range" style="width: 120px; text-align: center;">03.09 - 16.09</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">SI-levExpress</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
+          <td class="date-range" style="width: 120px; text-align: center;">03.09 - 16.09</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github-stats</span>
@@ -226,19 +235,10 @@
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
           <td class="date-range" style="width: 120px; text-align: center;">03.09 - 16.09</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">libraryManagement</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">02.09 - 15.09</td>
-        </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">SD-trabalhoPratico</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">libraryManagement</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
@@ -247,11 +247,11 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">SI-levExpress</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">SD-trabalhoPratico</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">02.09 - 15.09</td>
+          <td class="date-range" style="width: 120px; text-align: center;">03.09 - 16.09</td>
         </tr>
         </tbody>
       </table>
