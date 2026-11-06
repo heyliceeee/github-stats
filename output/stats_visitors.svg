@@ -211,11 +211,11 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 1.4s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">InternetSpeedXComplaintBot</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github-stats</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">5</td>
-          <td class="date-range" style="width: 120px; text-align: center;">22.10 - 04.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">14</td>
+          <td class="date-range" style="width: 120px; text-align: center;">23.10 - 05.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -223,17 +223,17 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">AutoTindogSwipingBot</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">22.10 - 04.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">7</td>
+          <td class="date-range" style="width: 120px; text-align: center;">23.10 - 05.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">InstagramFollowerBot</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">InternetSpeedXComplaintBot</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">22.10 - 04.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">7</td>
+          <td class="date-range" style="width: 120px; text-align: center;">23.10 - 05.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -241,17 +241,17 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">virtual-bookshelf</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">22.10 - 04.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">7</td>
+          <td class="date-range" style="width: 120px; text-align: center;">23.10 - 05.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github-stats</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">InstagramFollowerBot</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">22.10 - 04.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">23.10 - 05.11</td>
         </tr>
         </tbody>
       </table>
